@@ -17,6 +17,9 @@ This is a simple calculator app developed using Kotlin for Android. It allows us
 
 # Screenshot
 
+![Screenshot 2023-09-13 115823](https://github.com/vkvivek2000/CALCULATOR_APP/assets/104251614/ca688830-750f-44e4-8e8a-fbd10816e6c2)
+
+
 # Contributing
 Contributions to this project are welcome! If you have suggestions for improvements, bug reports, or would like to add new features, please feel free to create an issue or submit a pull request.
 
